@@ -19,7 +19,7 @@ Welcome to my coding journey through the realms of Data Science and Machine Lear
 💼 I've had the privilege to work on projects like:
    - 🌐 Command and control of drones using Alexa voice commands and AWS services.
    - 📈 Predicting booking trends for British Airways using machine learning.
-   - 🧠 Breast cancer detection using Convolutional Neural Networks (CNNs).
+   - 🧠 Virtual Try-on using generative adversarial network (GANs).
 
 ## Let's Connect!
 
