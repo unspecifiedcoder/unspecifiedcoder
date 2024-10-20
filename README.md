@@ -34,9 +34,13 @@ Here's a snapshot of the languages and technologies I've been working with:
 
 ### Blockchain Specific Technologies
 
-| ![Solidity](https://img.icons8.com/color/48/000000/solidity.png) | ![Polkadot](https://img.icons8.com/color/48/000000/polkadot.png) | ![IPFS](https://img.icons8.com/color/48/000000/ipfs.png) | ![Chainlink](https://img.icons8.com/color/48/000000/chainlink.png) |
-|:---:|:---:|:---:|:---:|
-| ![Ethereum](https://img.icons8.com/color/48/000000/ethereum.png) | ![Smart Contracts](https://img.icons8.com/color/48/000000/smart-contract.png) | ![Hyperledger](https://img.icons8.com/color/48/000000/hyperledger.png) | ![DeFi](https://img.icons8.com/color/48/000000/defi.png) |
+- **Solidity**  
+- **Polkadot**  
+- **IPFS**  
+- **Chainlink**  
+- **Smart Contracts**  
+- **Hyperledger**  
+- **DeFi (Decentralized Finance)**
 
 ## Let's Connect!
 
