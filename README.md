@@ -4,7 +4,7 @@
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2500&pause=1000&color=FFFFFF&center=true&vCenter=true&width=800&lines=Bridging+Verifiable+Logic+and+Decentralized+Execution;ZK-SNARKs+%7C+Parallel+EVM+%7C+AI+Verification+Infra;Architecting+Xythum+%E2%80%94+Privacy+at+Scale;Rust+%7C+Noir+%7C+Lean+4+%7C+LangGraph+%7C+Monad.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2500&pause=1000&color=FFFFFF&center=true&vCenter=true&width=800&lines=Bridging+Verifiable+Logic+and+Decentralized+Execution;ZK-SNARKs+%7C+Parallel+EVM+%7C+AI+Verification+Infra;Architecting+Xythum+%E2%80%94+Privacy+at+Scale;Rust+%7C+Noir+%7C+Lean+4+%7C+LangGraph+%7C+LLM.)](https://git.io/typing-svg)
 
 <p align="center">
   <a href="https://www.linkedin.com/in/ravi-shankar-bejini-5887711b0/"><img src="https://img.shields.io/badge/LinkedIn-%23ffffff.svg?style=for-the-badge&logo=linkedin&logoColor=black"></a>
@@ -39,7 +39,7 @@ impl SeniorArchitect {
         vec![
             SkillSet::VerifiableAI("Lean 4", "SMT Solvers", "Agentic Orchestration"),
             SkillSet::PrivacyInfra("ZK-SNARKs", "Noir", "Recursive Proofs"),
-            SkillSet::HighPerformance("Rust", "Monad / Parallel EVM", "P2P Systems"),
+            SkillSet::HighPerformance("Rust", " / Parallel EVM", "P2P Systems"),
             SkillSet::QuantFinance("VPIN", "Monte Carlo", "Jump-Diffusion Models"),
             SkillSet::AICompliance("LangGraph", "VectorDBs", "On-Premise LLMs"),
         ]
@@ -59,7 +59,7 @@ impl SeniorArchitect {
 | **🔬 ReasonForge** | **Proof Layer for AI**: Translates LLM reasoning chains into **Lean 4** formal proofs. SMT solvers verify logical steps. ZK certificates allow regulators to audit AI without seeing proprietary data. | `Lean 4` `SMT` `Rust` `ZK` |
 | **⚡ FlashGrid** | **Parallel Batch Auction Engine**: High-throughput auction logic optimized for **Monad's Parallel EVM**. Commit-reveal MEV protection + autonomous **GridBot** AI market-making agent. | `Solidity` `Monad` `TypeScript` |
 | **🛡️ AuditMitra** | **Enterprise AI Compliance Kernel**: 6-node LangGraph pipeline automating **5,800+ IndAS/SEBI/RBI/Companies Act** rules. BGE-M3 embeddings on Qdrant, on-premise Qwen2.5-7B on RTX 4090. | `Python` `LangGraph` `Qdrant` `Qwen2.5` |
-| **🏗️ DarkBook** | **ZK Dark Pool on Monad**: Shielded order matching using **Noir circuits** with on-chain settlement and privacy-preserving trade execution. Built end-to-end in one hackathon sprint. | `Noir` `Solidity` `Next.js` `Monad` |
+| **🏗️ DarkBook** | **ZK Dark Pool**: Shielded order matching using **Noir circuits** with on-chain settlement and privacy-preserving trade execution. Built end-to-end in one hackathon sprint. | `Noir` `Solidity` `Next.js` `Rust` |
 | **🌉 Xythum RWA Passport** | **Cross-chain RWA Protocol**: **CREATE2** deterministic deployment + **Chainlink CCIP** integration with bidirectional burn/redeem flows for real-world assets across heterogeneous chains. | `Solidity` `CCIP` `CREATE2` |
 | **🎯 POLYSNIPE** | **Quant Prediction Market Engine**: Multi-strategy Polymarket system — VPIN directional trading, market making, arbitrage detection & liquidity drain monitoring. **Monte Carlo + Merton jump-diffusion** backtesting. | `Python` `Rust` `Quant Finance` |
 | **🗣️ ProcureVani** | **Voice-first MSME Co-Pilot**: WhatsApp + **Hyperledger Fabric** blockchain co-pilot for GeM compliance in India. LangGraph orchestration over a permissioned ledger with live voice AI interface. | `Python` `LangGraph` `Hyperledger` |
